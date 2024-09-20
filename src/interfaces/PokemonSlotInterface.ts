@@ -1,6 +1,6 @@
 export interface PokemonSlotInterface{
     name: string;
-    photo: string;
+    pokePhoto: string;
     type: string;
     weight: number;
 }
